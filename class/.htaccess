@@ -1,0 +1,2 @@
+# Refuse direct access to all files
+Deny from all
